@@ -1,7 +1,6 @@
 #Author: Juan Pablo Giraldo Mosquera
 #Problem: 112 Tree Summing
-#Link: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4
-8
+#Link: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=48
 
 import sys
 from sys import stdin
