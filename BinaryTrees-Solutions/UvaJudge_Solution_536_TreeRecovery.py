@@ -1,3 +1,6 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 297 Quadtrees
+#Link: https://onlinejudge.org/external/5/536.pdf
 import sys
 from sys import stdin
 sys.setrecursionlimit(10**6)
