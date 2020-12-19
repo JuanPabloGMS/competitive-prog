@@ -1,3 +1,6 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 10765 Doves and Bombs
+#Link: https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1706
 import sys
 from sys import stdin
 sys.setrecursionlimit(10**6)
