@@ -1,3 +1,7 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 112 Tree Summing
+#Link: https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1008
+
 import sys
 from sys import stdin 
 from collections import deque
