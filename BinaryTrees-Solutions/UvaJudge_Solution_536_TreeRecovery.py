@@ -1,5 +1,5 @@
 #Author: Juan Pablo Giraldo Mosquera
-#Problem: 297 Quadtrees
+#Problem: 536 Tree Recovery
 #Link: https://onlinejudge.org/external/5/536.pdf
 import sys
 from sys import stdin
