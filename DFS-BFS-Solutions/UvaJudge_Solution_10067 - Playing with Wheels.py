@@ -1,5 +1,5 @@
 #Author: Juan Pablo Giraldo Mosquera
-#Problem: 112 Tree Summing
+#Problem: 10067 Playing With Wheels
 #Link: https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1008
 
 import sys
