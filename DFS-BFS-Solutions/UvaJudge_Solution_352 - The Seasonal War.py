@@ -1,3 +1,6 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 352 The Seasonal Wars
+#Link: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=288
 from sys import stdin
 
 board,lenb = None, None
