@@ -1,3 +1,6 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 12442 Forwarding Emails
+#Link: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3873
 import sys
 from sys import stdin
 
