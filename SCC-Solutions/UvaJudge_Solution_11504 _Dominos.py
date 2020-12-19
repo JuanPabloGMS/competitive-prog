@@ -1,3 +1,6 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 11504 Dominos
+#Link: https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2499
 import sys
 from sys import stdin
 from collections import deque
