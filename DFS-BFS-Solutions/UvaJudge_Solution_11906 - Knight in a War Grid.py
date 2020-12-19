@@ -1,3 +1,6 @@
+#Author: Juan Pablo Giraldo Mosquera
+#Problem: 11906 Knight in a War Grid
+#Link: https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3057
 import sys
 from sys import stdin
 from collections import deque
